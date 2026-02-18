@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-Hi, I'm Steven 👋<br>I'm an MSc AI & ML candidate from the University of Limerick with 2+ years of professional experience building production-ready software and machine learning systems. I enjoy working across the full stack of data and AI, from cleaning and analysing data to training models and deploying them to the cloud.<br>🎓 Currently finishing my MSc in AI and ML at University of Limerick<br>🛠️ Stack: Python, FastAPI, PyTorch, Scikit-learn, AWS, Docker, React, PostgreSQL, PowerBI<br>💡 Interests: Artificial Intelligence, Machine Learning, Software Engineering, Cloud Deployment, LLMs, Computer Vision, Data Analytics<br>🚀 Open to: AI Engineer, ML Engineer, Data Scientist, Data Analyst and Software Engineer roles
+Hi, I'm Steven 👋<br>I'm an MSc AI & ML candidate from the University of Limerick with 2+ years of professional experience building production-ready software and AI, machine learning systems. I enjoy working across the full stack of data and AI, from cleaning and analysing data to training models and deploying them to the cloud.<br>🎓 Currently finishing my MSc in AI and ML at University of Limerick<br>🛠️ Stack: Python, FastAPI, PyTorch, Scikit-learn, AWS, Docker, React, PostgreSQL, PowerBI<br>💡 Interests: Artificial Intelligence, Machine Learning, Software Engineering, Cloud Deployment, LLMs, Computer Vision, Data Analytics<br>🚀 Open to: AI Engineer, ML Engineer, Data Scientist, Data Analyst and Software Engineer roles
 
 
 ## 🌐 Socials:
